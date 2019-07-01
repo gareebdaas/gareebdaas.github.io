@@ -11,4 +11,4 @@ I'm a Linux fan boy and a huge admirer of the [Open Source](https://en.wikipedia
 
 By interest, I'm more inclined towards VAPT and mostly concerned about the security aspect of computers. Though, anything and everything about computers may interest me in general like BSD/Unix, retro Thinkpads, minimalist setups or even the 8 bit art and music (chiptune).
 
-I'm mostly (and only) active on Twitter for interest based discussion (basically shitposting) and socializing (formality). To contact (or abuse), you can DM me there.
+I'm mostly (and only) active on [Twitter](https://twitter.com/gareebdaas) for interest based discussions (basically shitposting) and socializing (formality). To contact (or abuse), you can DM me there.
