@@ -1,13 +1,13 @@
 # Site settings
-title: Apaar
+title: ツ
 description: >
-  Just another computer geek.
+  Just another blog on computers and security.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://gareebdaas.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Apaar
+  # fullname:
   # googleplus: https://www.google.com/+MotaquillahMaddane
   github: gareebdaas
   twitter: gareebdaas
