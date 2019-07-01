@@ -1,11 +1,6 @@
 <header class="header">
     <div class="navigation">
         <a href="/" class="logo">{{ site.title }}</a>
-
-        <ul class="menu">
-            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Blog</a></li>
-	    <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-        </ul>
     </div>
 
     <ul class="social-links">
@@ -20,5 +15,8 @@
                 <i class="fa fa-twitter"></i>
             </a>
         {% endif %}
+            <a href="/about" class="social-links__entry" target="_blank">
+                <i class="fa fa-info-circle"></i>
+            </a>
     </ul>
 </header>
