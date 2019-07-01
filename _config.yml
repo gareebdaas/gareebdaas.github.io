@@ -1,17 +1,17 @@
 # Site settings
-title: ツ
-description: >
-  Just another blog on computers and security.
+# title:
+# description: >
+ # Just another blog on computers and security.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://gareebdaas.github.io" # the base hostname & protocol for your site
 
 author:
-  # fullname:
-  # googleplus: https://www.google.com/+MotaquillahMaddane
+# fullname:
+# googleplus: https://www.google.com/+MotaquillahMaddane
   github: gareebdaas
   twitter: gareebdaas
-  # disqus: your_disqus_forum_shortname
+# disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
